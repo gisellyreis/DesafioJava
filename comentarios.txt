@@ -1,0 +1,5 @@
+Servidor Tomcat v9.0 
+Acessar http://localhost:8080/desafioJava/index.xhtml para ver se o servidor está rodando corretamente
+
+- Comecei pelo back-end por isso, além dele não estar concluído, 
+ainda não possui nada no front além de um <h1>Home</h1> para mostrar que está funcionando.
